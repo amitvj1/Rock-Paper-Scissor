@@ -1,0 +1,8 @@
+Content\lefthand.xnb
+Content\righthand.xnb
+Content\rock1.xnb
+Content\stage2.xnb
+Content\paper.xnb
+Content\scissors.xnb
+Content\lefthandpaper.xnb
+Content\lefthandscissors.xnb

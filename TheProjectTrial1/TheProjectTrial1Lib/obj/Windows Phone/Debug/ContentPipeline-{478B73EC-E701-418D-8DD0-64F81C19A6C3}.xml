@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>lefthand.png</Source>
+      <Name>lefthand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\lefthand.xnb</Output>
+      <Time>2014-01-08T20:04:24.9422926+05:30</Time>
+    </Item>
+    <Item>
+      <Source>righthand.png</Source>
+      <Name>righthand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\righthand.xnb</Output>
+      <Time>2014-01-08T20:04:24.9563024+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rock1.png</Source>
+      <Name>rock1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\rock1.xnb</Output>
+      <Time>2014-01-08T20:04:24.981319+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stage2.png</Source>
+      <Name>stage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\stage2.xnb</Output>
+      <Time>2014-01-08T20:04:24.9943285+05:30</Time>
+    </Item>
+    <Item>
+      <Source>paper.png</Source>
+      <Name>paper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\paper.xnb</Output>
+      <Time>2014-01-08T20:36:14.4123202+05:30</Time>
+    </Item>
+    <Item>
+      <Source>scissors.png</Source>
+      <Name>scissors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\scissors.xnb</Output>
+      <Time>2014-01-08T20:36:14.4193249+05:30</Time>
+    </Item>
+    <Item>
+      <Source>lefthandpaper.png</Source>
+      <Name>lefthandpaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\lefthandpaper.xnb</Output>
+      <Time>2014-01-08T21:48:18.0416061+05:30</Time>
+    </Item>
+    <Item>
+      <Source>lefthandscissors.png</Source>
+      <Name>lefthandscissors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\lefthandscissors.xnb</Output>
+      <Time>2014-01-08T22:36:10.0922369+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{478B73EC-E701-418D-8DD0-64F81C19A6C3}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1LibContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\tarun_000\documents\visual studio 2012\Projects\TheProjectTrial1\TheProjectTrial1\TheProjectTrial1Lib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-03T09:54:08.0974392+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
